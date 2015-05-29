@@ -1,1 +1,2 @@
-Testing some basic git functionality
+Testing some basic git functionality.
+Added a line yo.
